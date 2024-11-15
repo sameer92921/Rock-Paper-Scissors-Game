@@ -1,16 +1,16 @@
 const info =[{
     id: 1,
-    name: "rock",
+    name: "Rock",
     icon: "✊"
 },
 {
     id: 2,
-    name: "paper",
+    name: "Paper",
     icon: "✋"
 },
 {
     id: 3,
-    name: "scissors",
+    name: "Scissors",
     icon: "✌️"
 }
 ]
