@@ -1,0 +1,14 @@
+.result {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.greenText {
+  color: green;
+  font-weight: bold;
+}
+
+.redText {
+  color: red;
+  font-weight: bold;
+}

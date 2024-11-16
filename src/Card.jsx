@@ -1,8 +1,9 @@
-function Card({ icon, name }) {
+
+function Card({ icon, name, onClick}) {
     return (
       <div className="card">
         <div>
-            <button className="icon">{icon}</button>
+            <button onClick={onClick} className="icon">{icon}</button>
         </div>
         <div>
             <p className="icon-name">{name}</p>
